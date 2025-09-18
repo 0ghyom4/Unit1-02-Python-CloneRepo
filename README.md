@@ -1,2 +1,2 @@
 # Unit1-02-Python-CloneRepo
-[![Mr Coxall's Super Linter](https://github.com/ICS3U-C-Programming-YomaO/Unit1-02-Python/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/ICS3U-C-Programming-YomaO/Unit1-02-Python/actions/)
+[![Mr Coxall's Super Linter](https://github.com/ICS3U-C-Programming-YomaO/Unit1-02-Python-CloneRepo/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/ICS3U-C-Programming-YomaO/Unit1-02-Python-CloneRepo/actions/)
